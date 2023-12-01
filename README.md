@@ -4,6 +4,7 @@ CV de Amir KHOURI, étudiant au lycée Turgot en BTS Informatique, Cybersécurit
 ### Développement
 - HTML5
 - CSS
+- wds
 - SQL
 - GIT
 - Python
