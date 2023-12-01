@@ -1,42 +1,70 @@
-# CV
-CV de Amir KHOURI, étudiant au lycée Turgot en BTS Informatique, Cybersécurité.
+# Amir KHOURI
+
+Étudiant en BTS Informatique, Cybersécurité  
+Lycée Turgot
+
+---
+
 ## Compétences
-### Technologie web :
+
+### Technologie web
 - HTML5
 - CSS
-### Développement :
+
+### Développement
 - SQL
 - Python
 - Visual Basic
-### Outils Développement :
+
+### Outils de Développement
 - Visual Studio
 - Notepad++
 - Eclipse
-### Systèmes :
-- Windows : Administration
-- Linux : Administration système
+
+### Systèmes
+- Fenêtres : Administration
+- Linux : Système d'administration
 - MD5
-### Modélisation :
+
+### Modélisation
 - JMOT
 - Cisco Packet Tracer
 - Looping
-### Base de donnée
+
+### Base de données
 - Microsoft Access
 - Laragon
-### Travail d'équipe :
+
+### Travail d’équipe
 - GitHub
 - Notion
 - Trello
-### Virtualisation :
+
+### Virtualisation
 - VirtualBox
 - VMware
-### Cybersécurité :
+
+### Cybersécurité
 - Kali
 - Rootme
-### Compétences transeversales :
+
+### Compétences transversales
 - Droit
-- Management
-- Gestion finance
+- Gestion
+- Gestion financière
 - Gestion de projet
-### Langue :
-- Anglais Niveau B2
+
+### Langue
+- Anglaise : Niveau B2
+
+## Formation
+
+- BTS Informatique, Cybersécurité - Lycée Turgot (2023- )
+
+- Baccalauréat Techonologique : Gestion Finance (2021-2023)
+
+## Informations complémentaires
+
+- **Téléphone :** 0645260278
+- **E-mail :** amir.khr@icloud.com
+- **Date de naissance :** 28/11/2005
